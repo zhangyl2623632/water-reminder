@@ -1,0 +1,14 @@
+# Android build intermediates and signing material stay local
+android/build/
+android/*.jks
+android/*.idsig
+
+# Local Android toolchain used by android/build.ps1
+_ma_build/
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

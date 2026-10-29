@@ -1,0 +1,3 @@
+- insert:
+    - id: water-reminder
+      name: '@local/water-reminder'
