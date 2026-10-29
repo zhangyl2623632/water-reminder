@@ -49,7 +49,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -File android/build.ps1
 
 ## dsh-plugin/
 
-给 [DeepSeek Harness](https://github.com/) 用的插件包，通过 Plugin Manager 从本地目录安装（`install_bundle`）。
+给 DeepSeek Harness 用的插件包，通过 Plugin Manager 从本地目录安装（`install_bundle`）。
 
 - **弹卡**：到点在窗口底部弹一张卡片，一次一条，点「收到，这就喝」安静等下一轮，120 秒无操作自动收起。
 - **设置页**：设置 → 喝水提醒 —— 状态、下次时间、今日次数、间隔 / 起止时间、暂停继续、恢复默认、预览一条。
